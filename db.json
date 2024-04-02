@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Azul caneta"
+    },
+    {
+      "id": "3",
+      "name": "Caneta vermelha"
+    },
+    {
+      "id": "4",
+      "name": "Caneta vermelha",
+      "price": "5.00"
+    }
+  ],
+  "customer": [
+    {
+      "id": "1",
+      "name": "Douglas"
+    }
+  ]
+}
